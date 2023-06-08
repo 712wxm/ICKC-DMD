@@ -1,0 +1,100 @@
+[Trojan.Karagany]() samples sometimes use common binary packers such as UPX and Aspack on top of a custom Delphi binary packer. ###  samples packers Trojan Karagany use Aspack UPX top packer
+[Exaramel for Windows]() has a command to launch a remote shell and executes commands on the victim¡¯s machine. ###  Exaramel for Windows] command shell commands has Windows machine launch
+[Moafee]() has been known to employ binary padding. ###  Moafee] padding known employ
+[LookBack]() executes the <code>cmd.exe</code> command. ###  [LookBack]() code executes command
+[Silence]() has used JS scripts. ###  [Silence]() scripts used
+One version of [Helminth]() consists of VBScript scripts. ###  One version of [Helminth]() consists Helminth scripts
+[ZxShell]() can launch a reverse command shell. ###  [ZxShell] shell launch
+[ServHelper]() can execute shell commands against [cmd](). ###  [ServHelper] commands execute cmd
+[InnaputRAT]() launches a shell to execute commands on the victim¡¯s machine. ###  shell commands InnaputRAT execute launches machine execute
+[Deep Panda]() has updated and modified its malware, resulting in different hash values that evade detection. ###  [Deep Panda]() that malware detection modified resulting updated values evade resulting
+[IcedID]() has packed and encrypted its loader module. ###  [IcedID]( module encrypted packed
+[Dragonfly 2.0]() used various types of scripting to perform operations, including batch scripts. ###  [Dragonfly 2.0] types operations used scripting scripts perform
+[SEASHARPEE]() can execute commands on victims. ###  [SEASHARPEE]() commands execute victims
+[BlackMould]() can run cmd.exe with parameters. ###  [BlackMould]() run parameters
+[AuditCred]() encrypts the configuration. ###  [AuditCred]() configuration encrypts
+[APT33]() has used VBScript to initiate the delivery of payloads. ###  VBScript delivery used payloads initiate
+[WEBC2]() can open an interactive command shell. ###  [WEBC2]() shell open
+[PUNCHBUGGY]() has used [PowerShell]() scripts. ###  PUNCHBUGGY scripts
+[Smoke Loader]() adds a Visual Basic script in the Startup folder to deploy the payload. ###  [Smoke Loader] script payload deploy adds folder deploy
+[Pillowmint]() has used a PowerShell script to install a shim database. ###  [Pillowmint] script database used install
+[Gamaredon Group]() has obfuscated .NET executables by inserting junk code. ###  [Gamaredon Group]() executables code inserting obfuscated
+[Sidewinder]() has used PowerShell to drop and execute malware loaders. ###  [Sidewinder]() PowerShell loaders used drop
+[Empire]() has the ability to obfuscate commands using <code>Invoke-Obfuscation</code>. ###  [Empire]() ability commands code has > obfuscate using
+[APT3]() has been known to pack their tools. ###  [APT3]( tools known pack
+[Astaroth]() has used malicious VBS e-mail attachments for execution. ###  Astaroth] attachments used execution
+[Cobalt Group]() obfuscated several scriptlets and code used on the victim¡¯s machine, including through use of XOR and RC4. ###  [Cobalt Group]() code RC4 scriptlets obfuscated machine RC4 use RC4 XOR used
+[Remexi]() obfuscates its configuration data with XOR. ###  [Remexi]() data obfuscates XOR
+[The White Company]() has obfuscated their payloads through packing. ###  [The White Company]( payloads obfuscated packing
+[ComRAT]() has used encryption and base64 to obfuscate its orchestrator code in the Registry. [ComRAT]() has also embedded an XOR encrypted communications module inside the orchestrator module. [ComRAT]() has encrypted its virtual file system using AES-256 in XTS mode and has encoded PowerShell scripts. ###  [ComRAT]() [ComRAT]() [ComRAT] base64 encryption code module system scripts used embedded using encoded encrypted Registry module mode obfuscate using
+There is a variant of [RATANKBA]() that uses a PowerShell script instead of the traditional PE form. ###  that form script is RATANKBA variant uses
+[GALLIUM]() used the Windows command shell to execute commands. ###  [GALLIUM]() shell commands used execute
+[TA505]() has used PowerShell to download and execute malware and reconnaissance scripts. ###  [TA505] PowerShell scripts used download
+[StreamEx]() obfuscates some commands by using statically programmed fragments of strings when starting a DLL. It also uses a one-byte xor against 0x91 to encode configuration data. ###  [StreamEx]() It commands fragments DLL xor data using obfuscates uses strings 0x91 encode starting
+[FIN8]()'s malicious spearphishing payloads are executed as [PowerShell](). [FIN8]() has also used [PowerShell]() during [Lateral Movement]() and [Credential Access](). ###  [FIN8]()'s malicious spearphishing payloads [FIN8]( PowerShell executed Access used PowerShell Movement
+[PUNCHBUGGY]() has hashed most its code's functions and encrypted payloads with base64 and XOR. ###  [PUNCHBUGGY] functions payloads encrypted XOR hashed XOR base64
+[TA551]() has used <code>cmd.exe</code> to execute commands. ###  code > commands used cmd.exe</code > execute
+[RobbinHood]() uses cmd.exe on the victim's computer. ###  [RobbinHood] cmd.exe uses computer
+[OilRig]() has encrypted and encoded data in its malware, including by using base64. ###  data base64 encoded encrypted malware
+[Threat Group-3390]() has used PowerShell for execution. ###  [Threat Group-3390]() PowerShell used execution
+[Bandook]() is capable of spawning a Windows command shell. ###  [Bandook]() shell is capable
+[MoleNet]() can execute commands via the command line utility. ###  [MoleNet]() commands execute utility
+[Ke3chang]() has used batch scripts in its malware to install persistence mechanisms. ###  [Ke3chang]( scripts mechanisms used malware install
+[Drovorub]() has used XOR encrypted payloads in WebSocket client to server messages. ###  [Drovorub]() XOR payloads messages used client encrypted server
+The [Helminth]() config file is encrypted with RC4. ###  The [Helminth] config file encrypted RC4
+[Fysbis]() has the ability to create and execute commands in a remote shell for CLI. ###  [Fysbis]( ability commands has shell CLI create
+[Leafminer]() obfuscated scripts that were used on victim machines. ###  [Leafminer]() that scripts machines used
+[Tropic Trooper]() has used JPG files with encrypted payloads to mask their backdoor routines and evade detection. ###  [Tropic Trooper]() files routines detection used payloads mask
+[OceanSalt]() can create a reverse shell on the infected endpoint using cmd.exe. ###  [OceanSalt] shell cmd.exe using create endpoint using
+[APT19]() used Base64 to obfuscate commands and the payload. ###  [APT19]() Base64 payload commands used obfuscate
+[IcedID]() has used obfuscated VBA string expressions. ###  [IcedID]( expressions used
+[BRONZE BUTLER]() has used PowerShell for execution. ###  [BRONZE BUTLER]() PowerShell used execution
+[Lazarus Group]() has used Themida to pack at least two separate backdoor implants. ###  [Lazarus Group]() Themida implants used pack
+[Honeybee]() drops files with base64-encoded data. ###  [Honeybee]() files drops data
+[DarkComet]() can execute various types of scripts on the victim¡¯s machine. ###  [DarkComet]( types execute scripts machine
+The [Poseidon Group]()'s Information Gathering Tool (IGT) includes PowerShell components. ###  The [Poseidon Group]()'s Information Gathering Tool (IGT) components includes
+[Seasalt]() obfuscates configuration data. ###  [Seasalt] data obfuscates
+[HTTPBrowser]() is capable of spawning a reverse shell on a victim. ###  [HTTPBrowser]() shell is victim capable
+[SDBbot]() has the ability to XOR the strings for its installer component with a hardcoded 128 byte key. ###  [SDBbot] ability strings has component key XOR
+[GALLIUM]() ensured each payload had a unique hash, including by using different types of packers. ###  [GALLIUM]() payload hash types ensured packers had
+[MiniDuke]() can use control flow flattening to obscure code. ###  [MiniDuke] flow use code flattening
+[FlawedGrace]() encrypts its C2 configuration files with AES in CBC mode. ###  [FlawedGrace]() files encrypts AES mode
+[APT39]() has utilized AutoIt and custom scripts to perform internal reconnaissance.  ###  [APT39]() scripts reconnaissance utilized perform
+[Dtrack]() has used a dropper that embeds an encrypted payload as extra data. ###  [Dtrack]() that dropper payload used data embeds
+[TSCookie]() has the ability to execute shell commands on the infected host. ###  [TSCookie]( ability commands has host execute
+[Tropic Trooper]() has used Windows command scripts. ###  [Tropic Trooper]() scripts used
+[Sidewinder]() has used VBScript to drop and execute malware loaders. ###  [Sidewinder]() VBScript loaders used drop
+[OSX_OCEANLOTUS.D]() has a variant that is packed with UPX. ###  [OSX_OCEANLOTUS.D] that variant has UPX packed
+[Rancor]() has used cmd.exe to execute commmands. ###  [Rancor]() cmd.exe commmands used execute
+[RegDuke]() can use control-flow flattening or the commercially available .NET Reactor for obfuscation. ###  [RegDuke] Reactor flattening use obfuscation
+[Blue Mockingbird]() has used PowerShell reverse TCP shells to issue interactive commands over a network connection. ###  [Blue Mockingbird]( PowerShell shells commands used connection reverse issue
+[SpeakUp]() uses Python scripts. ###  [SpeakUp]() scripts uses
+[TA505]() has password-protected malicious Word documents and used base64 encoded PowerShell commands. ###  [TA505]( documents commands base64 has
+[Cobalt Group]() has sent Word OLE compound documents with malicious obfuscated VBA macros that will run upon user execution. ###  [Cobalt Group]() that documents sent macros execution run
+[Operation Wocao]() has used a VBScript to conduct reconnaissance on targeted systems. ###  [Operation Wocao]() VBScript reconnaissance used systems conduct
+[PowerSploit]() modules are written in and executed via [PowerShell](). ###  [PowerSploit]() modules executed written PowerShell
+[GOLD SOUTHFIELD]() has executed base64 encoded PowerShell scripts on compromised hosts. ###  [GOLD SOUTHFIELD]() base64 scripts executed hosts
+[PHOREAL]() is capable of creating reverse shell. ###  [PHOREAL] shell is capable
+[Operation Wocao]() has used PowerShell on compromised systems. ###  [Operation Wocao]() PowerShell used systems
+[HAFNIUM]() has used the Exchange Power Shell module <code>Set-OabVirtualDirectoryPowerShell</code> to export mailbox data. ###  [HAFNIUM]() module data used code export
+[Magic Hound]() has used the command-line interface. ###  [Magic Hound]() interface used
+[ZLib]() has the ability to execute shell commands. ###  [ZLib] ability commands has execute
+[StreamEx]() has the ability to remotely execute commands. ###  [StreamEx]() ability commands has execute
+[Bazar]() can execute a PowerShell script received from C2. ###  [Bazar] script execute C2 received
+[Dark Caracal]() has used macros in Word documents that would download a second stage if executed. ###  [Dark Caracal]() that macros stage used documents download executed
+[Lazarus Group]() malware uses multiple types of encryption and encoding in its malware files, including AES, Caracachs, RC4, basic XOR with constant 0xA7, and other techniques. ###  [Lazarus Group]() malware types uses encoding encryption files AES 0xA7
+[APT29]() used <code>cmd.exe</code> to execute commands on remote machines. ###  [APT29]() code > commands used cmd.exe</code > execute machines
+Some data in [Remsec]() is encrypted using RC5 in CBC mode, AES-CBC with a hardcoded key, RC4, or Salsa20. Some data is also base64-encoded. ###  Some data in [Remsec] Some data RC5 encrypted is Remsec mode key using base64-encoded
+One version of [Helminth]() uses a PowerShell script. ###  One version of [Helminth] script uses Helminth
+[Higaisa]() used Base64 encoded compressed payloads. ###  [Higaisa]() payloads used
+[Threat Group-3390]() has used command-line interfaces for execution. ###  [Threat Group-3390]() interfaces used execution
+[Fox Kitten]() has base64 encoded scripts and payloads to avoid detection. ###  [Fox Kitten]( payloads scripts detection has avoid
+[Exaramel for Linux]() has a command to execute a shell command on the system. ###  Exaramel for Linux] command command has Linux system execute
+[Comnie]() uses RC4 and Base64 to obfuscate strings. ###  [Comnie]() Base64 RC4 strings uses obfuscate
+[njRAT]() has used AutoIt to compile the payload and main script into a single executable after delivery. ###  AutoIt script payload used executable delivery compile
+[BackConfig]() has used compressed and decimal encoded VBS scripts. ###  [BackConfig]() decimal scripts encoded used compressed
+[jRAT]() has been distributed as HTA files with VBScript. ###  distributed files VBScript
+[OopsIE]() uses the command prompt to execute commands on the victim's machine. ###  [OopsIE]() prompt commands uses machine execute
+The author of [GravityRAT]() submitted samples to VirusTotal for testing, showing that the author modified the code to try to hide the DDE object in a different part of the document. ###  The author of [GravityRAT] the author samples code object showing submitted GravityRAT VirusTotal testing part document modified hide showing try
+[Carbanak]() encrypts strings to make analysis more difficult. ###  analysis Carbanak make difficult
+[RegDuke]() can hide data in images, including use of the Least Significant Bit (LSB). ###  [RegDuke] data hide images use Bit
